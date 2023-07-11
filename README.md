@@ -1,4 +1,4 @@
-# Texture Generation with Variational Autoencoder (VAE) - my Final Degree Project Miguel
+# Texture Generation with Variational Autoencoder (VAE) - Final Degree Project Miguel
 This project focuses on training an artificial intelligence model, specifically a Variational Autoencoder (VAE), to generate textures for video games. The objective is to leverage extensive knowledge of neural networks and the generative model VAE to create a robust texture generation system. The videogame choosen in this project is Minecraft but the code could be useful for other videogames textures by just changing the dataset the model is trained with.
 
 ## Features
